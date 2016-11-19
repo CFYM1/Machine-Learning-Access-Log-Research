@@ -1,0 +1,7 @@
+apache_log_parser
+pandas
+regex
+numpy
+argparse
+tabulate
+nltk
